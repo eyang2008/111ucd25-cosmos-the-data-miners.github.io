@@ -74,7 +74,7 @@ Team A members
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
-      Charlie Brown is ...
+      Vivian is ...
     </p>
     <ul style="margin: 0; padding-left: 20px;">
        Vivian is a rising junior from San Diego. She enjoys playing softball, baking, and painting.
