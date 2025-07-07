@@ -64,7 +64,7 @@ Team A members
 
 ---
 
-## Charlie Brown
+## Vivian
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
@@ -77,9 +77,7 @@ Team A members
       Charlie Brown is ...
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>AAA</li>
-      <li>BBB</li>
-      <li>CCC</li>
+       Vivian is a rising junior from San Diego. She enjoys playing softball, baking, and painting.
     </ul>
   </div>
   
