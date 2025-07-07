@@ -33,7 +33,7 @@ Team A members
     <ul style="margin: 0; padding-left: 20px;">
       <li>Favorite animals: Seals, birds, cats</li>
       <li>Big Pompompurin fan</li>
-      <li>Favorite drink: Jasmine Green Tea!</li>
+      <li>Favorite drink: Jasmine green tea!</li>
     </ul>
   </div>
 
