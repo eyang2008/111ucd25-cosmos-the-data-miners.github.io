@@ -97,9 +97,9 @@ Team A members
       Soham Jani is a rising senior from Pleasanton CA, located in the East Bay, 25 minutes from Oakland CA.
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>AAA</li>
-      <li>BBB</li>
-      <li>CCC</li>
+      <li>He enjoys working on small projects in his free time.</li>
+      <li>He is an aspiring Data Sci / Finance student.</li>
+      <li>He had lots of fun working on this project!</li>
     </ul>
   </div>
   
