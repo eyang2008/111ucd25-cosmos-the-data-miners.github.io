@@ -91,8 +91,8 @@ The Data Miners
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
-  <img src="lucy.jpeg"
-       alt="Lucy Van Pelt"
+  <img src="sjx_image.png"
+       alt="Soham Jani Image"
        style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
