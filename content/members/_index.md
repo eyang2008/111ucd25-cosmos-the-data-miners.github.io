@@ -41,7 +41,7 @@ The Data Miners
 
 ---
 
-### Woodstock
+### Angea
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
@@ -51,12 +51,12 @@ The Data Miners
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
-      Woodstock is ...
+      Angela is a rising junior from San Marino. She loves tennis, chocolate, and drones. 
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>AAA</li>
-      <li>BBB</li>
-      <li>CCC</li>
+      <li>Favorite subject: math</li>
+      <li>Favorite fruit: lychee</li>
+      <li>Favorite drink: mango mochi boba</li>
     </ul>
   </div>
 
