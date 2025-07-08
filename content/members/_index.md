@@ -41,7 +41,7 @@ The Data Miners
 
 ---
 
-### Angea
+### Angela
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
@@ -54,9 +54,9 @@ The Data Miners
       Angela is a rising junior from San Marino. She loves tennis, chocolate, and drones. 
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>Favorite subject: math</li>
-      <li>Favorite fruit: lychee</li>
-      <li>Favorite drink: mango mochi boba</li>
+      <li>Favorite subject: Math</li>
+      <li>Favorite fruit: Lychee</li>
+      <li>Favorite drink: Mango Mochi Boba</li>
     </ul>
   </div>
 
