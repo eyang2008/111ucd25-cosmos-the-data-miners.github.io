@@ -110,22 +110,22 @@ The Data Miners
 
 ---
 
-## Sally Brown
+## Evelyn Yang
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
   <img src="sally.jpeg"
-       alt="Sally Brown"
+       alt="Evelyn Yang"
        style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
-      Sally Brown is ...
+      Evelyn Yang is a rising senior at Mountain View High School in Mountain View, California in the Bay Area.
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>AAA</li>
-      <li>BBB</li>
-      <li>CCC</li>
+      <li>She is a developer in her school's robotics team, FRC 971.</li>
+      <li>Outside of school, she volunteers at local middle schools.</li>
+      <li>In her free time, she enjoys watching movies and shows.</li>
     </ul>
   </div>
   
