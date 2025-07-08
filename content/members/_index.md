@@ -84,7 +84,7 @@ Team A members
 
 ---
 
-## Lucy Van Pelt
+## Soham 
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
@@ -94,7 +94,7 @@ Team A members
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
-      Lucy Van Pelt is ...
+      Soham Jani is a rising senior from Pleasanton CA, located in the East Bay, 25 minutes from Oakland CA.
     </p>
     <ul style="margin: 0; padding-left: 20px;">
       <li>AAA</li>
