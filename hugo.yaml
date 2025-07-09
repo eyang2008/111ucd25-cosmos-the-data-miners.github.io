@@ -1,6 +1,6 @@
 baseURL: 'https://ucd25-cosmos-the-data-miners.github.io'
 languageCode: en-us
-title: "Team A"
+title: "The Data Miners"
 theme: "PaperMod"
 
 params:
@@ -10,7 +10,7 @@ params:
   math: True
   profileMode:
     enabled: true
-    title: "Team A"
+    title: "The Data Miners"
     subtitle: "Description"
     imageUrl: "butter.jpeg"
     imageWidth: 120 # custom size
