@@ -115,7 +115,7 @@ Vivian is a rising junior from San Diego. She enjoys playing softball, baking, a
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
-  <img src="sally.jpeg"
+  <img src="evelyn.png"
        alt="Evelyn Yang"
        style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
