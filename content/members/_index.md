@@ -22,7 +22,7 @@ The Data Miners
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
-  <img src="IMG_8479.HEIC"
+  <img src="IMG_8479.jpg"
        alt="Erica"
        style="width: 150px; height: 150px; object-fit: cover; border-radius: 0%; object-position: center; flex-shrink: 0;">
 
