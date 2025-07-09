@@ -24,7 +24,7 @@ The Data Miners
 
   <img src="IMG_8479.jpg"
        alt="Erica"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 0%; object-position: center; flex-shrink: 0;">
+       style="width: 150px; height: 200px; object-fit: cover; border-radius: 0%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
