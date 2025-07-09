@@ -10,11 +10,11 @@ params:
   math: True
   profileMode:
     enabled: true
-    title: "Machine Hater"
-    subtitle: "I don't like machine learning"
-    imageUrl: "home.png"
-    imageWidth: 300 # custom size
-    imageHeight: 300 # custom size
+    title: "Team A"
+    subtitle: "Description"
+    imageUrl: "butter.jpeg"
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
 
 menu:
   main:
