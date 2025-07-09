@@ -131,12 +131,4 @@ The Data Miners
   
 </div>
 
----
 
-## Snoopy (w/o photo)
-
-Snoopy is ...
-
-- AAA
-- BBB
-- CCC
