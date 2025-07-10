@@ -69,7 +69,7 @@ The Data Miners
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
   <img src="Screen Shot 2025-07-09 at 4.49.20 PM"
-       alt="Charlie Brown"
+       alt="Vivian Zhang"
        style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
