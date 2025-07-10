@@ -77,9 +77,9 @@ The Data Miners
       Vivian is a rising junior from San Diego. She enjoys playing softball, baking, and painting.
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>favorite food: sushi
-      <li>interested major: data science
-      <li>favorite animal: cats
+      <li>Favorite food: sushi
+      <li>Interested major: data science
+      <li>Favorite animal: cats
     </ul>
   </div>
   
