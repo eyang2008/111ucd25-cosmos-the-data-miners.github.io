@@ -24,7 +24,7 @@ The Data Miners
 
   <img src="IMG_8479.jpg"
        alt="Erica"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 25%; object-position: center; flex-shrink: 0;">
+       style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
@@ -47,7 +47,7 @@ The Data Miners
 
   <img src="Angela-profilepicture.jpeg"
        alt="Angea"
-       style="width: 150px; height: 150px; object-fit: cover; border-radius: 25%; object-position: center; flex-shrink: 0;">
+       style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; object-position: center; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
@@ -70,7 +70,7 @@ The Data Miners
 
   <img src="Screen Shot 2025-07-09 at 4.49.20 PM.png"
        alt="Vivian Zhang"
-      style="width: 150px; height: 150px; object-fit: contain; border-radius: 100%; object-position: cover; flex-shrink: 0;">
+      style="width: 150px; height: 150px; object-fit: contain; border-radius: 50%; object-position: cover; flex-shrink: 0;">
 
   <div style="flex: 1; text-align: left;">
     <p style="margin: 0; padding-top: 0.5em;">
